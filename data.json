@@ -1,0 +1,12 @@
+{
+  "data": "Hello, World!",
+  "arrayData": [
+    1,
+    2,
+    3
+  ],
+  "simpleObject": {
+    "first": 1,
+    "second": 2
+  }
+}
